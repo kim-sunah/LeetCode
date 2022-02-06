@@ -11,6 +11,8 @@
 <br>
 [LeetCode_118](#LectCode_118_Pascal)
 <br>
+[LeetCode_118](#LectCode_392_Is Subsequence)
+<br>
 [LeetCode_875](#LeetCode_875)
 <br>
 
